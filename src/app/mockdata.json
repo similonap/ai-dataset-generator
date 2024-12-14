@@ -1,0 +1,64 @@
+{
+  "dinosaur": [
+    {
+      "id": 1,
+      "name": "T-Rex McChompface",
+      "era": "Late Cretaceous",
+      "mugshot": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Xx4nQCH4aEQQjUPU1cKDmV6G/user-uUjKvGgwitIjKN6PARM2c3mG/img-cmEgYpFh8QuyJ2vzJ5cmsmbF.png?st=2024-12-14T07%3A42%3A06Z&se=2024-12-14T09%3A42%3A06Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-13T13%3A48%3A19Z&ske=2024-12-14T13%3A48%3A19Z&sks=b&skv=2024-08-04&sig=ewdGTJtikorDRzbcGYVozw/tl0nEqanpFXtyz0uEFuY%3D"
+    },
+    {
+      "id": 2,
+      "name": "Triceratops Shrek",
+      "era": "Late Cretaceous",
+      "mugshot": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Xx4nQCH4aEQQjUPU1cKDmV6G/user-uUjKvGgwitIjKN6PARM2c3mG/img-v4AvcQb2rRFt01CJkwVoLWUx.png?st=2024-12-14T07%3A42%3A20Z&se=2024-12-14T09%3A42%3A20Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-14T03%3A27%3A23Z&ske=2024-12-15T03%3A27%3A23Z&sks=b&skv=2024-08-04&sig=5rW6faS%2B8ycO54tFyLeyouNb4hO32CxUgKJ%2BP0ErQ%2Bw%3D"
+    },
+    {
+      "id": 3,
+      "name": "Pterodactyl McFlappy",
+      "era": "Late Cretaceous",
+      "mugshot": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Xx4nQCH4aEQQjUPU1cKDmV6G/user-uUjKvGgwitIjKN6PARM2c3mG/img-AJ8mH0g9dmtYlzQG0dGLCN0D.png?st=2024-12-14T07%3A42%3A32Z&se=2024-12-14T09%3A42%3A32Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-14T03%3A21%3A39Z&ske=2024-12-15T03%3A21%3A39Z&sks=b&skv=2024-08-04&sig=ck2O8ZTDEr7qN2ivzTY7a/hlEXXDUXcehWpaMwVCqCo%3D"
+    },
+    {
+      "id": 4,
+      "name": "Velociraptor Zoomer",
+      "era": "Late Cretaceous",
+      "mugshot": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Xx4nQCH4aEQQjUPU1cKDmV6G/user-uUjKvGgwitIjKN6PARM2c3mG/img-9wU8jlI8Y4DNwVK6KLr3gBC5.png?st=2024-12-14T07%3A42%3A43Z&se=2024-12-14T09%3A42%3A43Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-13T10%3A25%3A17Z&ske=2024-12-14T10%3A25%3A17Z&sks=b&skv=2024-08-04&sig=dbvjJR68A4t1U3nsOUMZEvQTL%2BgG5gkDG5URjE3UlEs%3D"
+    },
+    {
+      "id": 5,
+      "name": "Brachiosaurus Longneck",
+      "era": "Late Jurassic",
+      "mugshot": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Xx4nQCH4aEQQjUPU1cKDmV6G/user-uUjKvGgwitIjKN6PARM2c3mG/img-wbwPhFxM2BLdzrxANzHq3xgO.png?st=2024-12-14T07%3A42%3A59Z&se=2024-12-14T09%3A42%3A59Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-14T03%3A11%3A17Z&ske=2024-12-15T03%3A11%3A17Z&sks=b&skv=2024-08-04&sig=LH2BBMhQcIroiJEcFSrNnXUAewdogHfySEjDTdrmK1o%3D"
+    },
+    {
+      "id": 6,
+      "name": "Ankylosaurus Armorplated",
+      "era": "Late Cretaceous",
+      "mugshot": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Xx4nQCH4aEQQjUPU1cKDmV6G/user-uUjKvGgwitIjKN6PARM2c3mG/img-dRkaXvrAQG8yKYr0e5QJHbB5.png?st=2024-12-14T07%3A43%3A10Z&se=2024-12-14T09%3A43%3A10Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-14T03%3A18%3A02Z&ske=2024-12-15T03%3A18%3A02Z&sks=b&skv=2024-08-04&sig=Z4s6DLMvtcLLyhHvxm6hu%2BLbH5E7XtH//3MqbU/JNpo%3D"
+    },
+    {
+      "id": 7,
+      "name": "Diplodocus Stretch",
+      "era": "Late Jurassic",
+      "mugshot": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Xx4nQCH4aEQQjUPU1cKDmV6G/user-uUjKvGgwitIjKN6PARM2c3mG/img-WhBOnd9e66Vhe9a2Me6Y7MMd.png?st=2024-12-14T07%3A43%3A25Z&se=2024-12-14T09%3A43%3A25Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-14T03%3A16%3A52Z&ske=2024-12-15T03%3A16%3A52Z&sks=b&skv=2024-08-04&sig=Rf48RECcv/dEGwZ53cfI5GaCqleNXHO%2BxgcF7gCHqpI%3D"
+    },
+    {
+      "id": 8,
+      "name": "Stegosaurus Spikey",
+      "era": "Late Jurassic",
+      "mugshot": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Xx4nQCH4aEQQjUPU1cKDmV6G/user-uUjKvGgwitIjKN6PARM2c3mG/img-kwb3uonDOi4zepM17fkehISt.png?st=2024-12-14T07%3A43%3A35Z&se=2024-12-14T09%3A43%3A35Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-14T03%3A12%3A59Z&ske=2024-12-15T03%3A12%3A59Z&sks=b&skv=2024-08-04&sig=QZEqOUu%2BbKeRqUXCaLgv2FMNEinxgjt0zqdqw2JH0EE%3D"
+    },
+    {
+      "id": 9,
+      "name": "Spinosaurus Splashy",
+      "era": "Late Cretaceous",
+      "mugshot": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Xx4nQCH4aEQQjUPU1cKDmV6G/user-uUjKvGgwitIjKN6PARM2c3mG/img-TqOr6D8FJSnK29F6MJLsyGtv.png?st=2024-12-14T07%3A43%3A48Z&se=2024-12-14T09%3A43%3A48Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-14T07%3A42%3A51Z&ske=2024-12-15T07%3A42%3A51Z&sks=b&skv=2024-08-04&sig=F/PrDOiOvQCYMnSlAJv%2BANONj%2BdD0eb48zpYUSGCGxA%3D"
+    },
+    {
+      "id": 10,
+      "name": "Iguanodon Thumbsup",
+      "era": "Early Cretaceous",
+      "mugshot": "https://placehold.co/600x400/EEE/31343C"
+    }
+  ]
+}
